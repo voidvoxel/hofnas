@@ -1,5 +1,5 @@
-#if !defined(HOFNAS_COMMON_CONSOLE_HPP)
-#define HOFNAS_COMMON_CONSOLE_HPP
+#if !defined(HOFNAS__COMMON__CONSOLE_HPP)
+#define HOFNAS__COMMON__CONSOLE_HPP
 
 #include <iostream>
 #include <string>
